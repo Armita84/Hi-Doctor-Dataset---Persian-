@@ -6,6 +6,10 @@ The data collected from doctor salam website
 Suitable for different NLP tasks such as Automatic Tagging (Multi-labeling), Inline Question Answering, Text Summarization, NER, and so on. 
 (Dataset is not Cleaned)
 
-For more details and upcoming notebooks for this dataset, please check the below link:
+For more details and downloading this dataset, please check the below link:
 
 https://www.kaggle.com/datasets/armitaraz/hi-doctor-persian-blogs-dataset
+
+or use the below API cpmmand in your notebook:
+
+kaggle datasets download -d armitaraz/digikala-mag-20k-data
